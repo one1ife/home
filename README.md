@@ -2,7 +2,7 @@
 
 好看的个人主页，个人主页源码，博客主页模板.**🉑️随意使用，无限制。**
 
-预览地址：[https://www.jackyzou.live](https://www.jackyzou.live)
+预览地址：[http://www.jackyzou.live](http://www.jackyzou.live)
 
 ## 集成插件
 
